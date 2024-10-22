@@ -1,0 +1,19 @@
+# public/admin/config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Or 'main' if that's your default branch
+
+media_folder: 'public/uploads'   # Media files location in the repository
+public_folder: '/uploads'        # Media files accessible path
+
+collections:
+  - name: 'articles'
+    label: 'Articles'
+    folder: 'content/articles'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
