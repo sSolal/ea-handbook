@@ -1,6 +1,7 @@
 ---
-title: "Bonjour le monde"
-date: "2023-10-01"
+title: Deuxième article !
+date: 2024-10-22T17:46:00.000Z
 ---
 # Hellooo
-Ceci est le premier article.
+
+Ceci est le deuxième article !

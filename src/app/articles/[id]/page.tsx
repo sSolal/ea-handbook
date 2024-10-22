@@ -28,7 +28,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <article>
       <h1>{articleData.title}</h1>
-      <p>{articleData.date}</p>
+      <p>{articleData.date.toString()}</p>
       <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml || '' }} />
     </article>
   );

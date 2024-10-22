@@ -14,7 +14,7 @@ export default async function HomePage() {
           <li key={id}>
             <Link href={`/articles/${id}`}>{title}</Link>
             <br />
-            <small>{date}</small>
+            <small>{date.toString()}</small>
           </li>
         ))}
       </ul>
