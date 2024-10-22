@@ -2,18 +2,35 @@
 
 backend:
   name: git-gateway
-  branch: main # Or 'main' if that's your default branch
+  branch: main  # Replace with 'main' if that's your default branch
 
-media_folder: 'public/uploads'   # Media files location in the repository
-public_folder: '/uploads'        # Media files accessible path
+media_folder: 'public/uploads'  # Media files location in the repository
+public_folder: '/uploads'       # Media files accessible path
 
 collections:
-  - name: 'articles'
-    label: 'Articles'
-    folder: 'content/articles'
+  - name: 'sections'
+    label: 'Sections'
+    folder: 'content/sections'
     create: true
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Order', name: 'order', widget: 'number' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'chapters'
+    label: 'Chapters'
+    folder: 'content/chapters'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - label: 'Section'
+        name: 'section'
+        widget: 'relation'
+        collection: 'sections'
+        search_fields: ['title']
+        value_field: '{{slug}}'
+        display_fields: ['title']
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Order', name: 'order', widget: 'number' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
