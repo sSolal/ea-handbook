@@ -2,6 +2,7 @@
 
 import { getChapterData, getAllChapterIds, ChapterData } from '@/lib/sections';
 import type { Metadata } from 'next';
+import ChapterContent from '@/components/ChapterContent';
 
 type Props = {
   params: Promise<{ id: string }>;
@@ -25,12 +26,5 @@ export default async function ChapterPage({ params }: Props) {
   const resolved = await params;
   const chapterData: ChapterData = await getChapterData(resolved.id);
 
-  return (
-    <article>
-      <h1>{chapterData.title}</h1>
-      {/* Include date if you have it */}
-      {/* <p>{chapterData.date.toString()}</p> */}
-      <div dangerouslySetInnerHTML={{ __html: chapterData.contentHtml || '' }} />
-    </article>
-  );
+  return <ChapterContent chapterData={chapterData} />;
 }

@@ -5,8 +5,8 @@ import type { Metadata } from 'next';
 import NetlifyIdentity from '@/components/NetlifyIdentity';
 
 export const metadata: Metadata = {
-  title: 'Your Site Title',
-  description: 'Your Site Description',
+  title: 'Le manuel de l\'altruisme efficace',
+  description: 'La traduction française du EA handbook',
 };
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head />
-      <body>
+      <body className="">
         {children}
         {/* Include the Netlify Identity client component */}
         <NetlifyIdentity />

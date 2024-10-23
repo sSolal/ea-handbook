@@ -3,6 +3,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
 
 const chaptersDirectory = path.join(process.cwd(), 'content/chapters');
 const sectionsDirectory = path.join(process.cwd(), 'content/sections');
@@ -34,7 +36,6 @@ export async function getChapterData(id: string): Promise<ChapterData> {
   const { data, content } = matter(fileContents);
 
   // Process content
-  const { remark } = await import('remark');
   const html = (await import('remark-html')).default;
   const processedContent = await remark()
     .use(html)
@@ -59,15 +60,24 @@ export function getAllSectionsData(): SectionData[] {
     const id = fileName.replace(/\.md$/, '');
     const fullPath = path.join(sectionsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
-    const { data } = matter(fileContents);
+    const { data, content } = matter(fileContents);
+
+    // Process the markdown content into HTML
+    //const html = (await import('remark-html')).default;
+    const contentHtml = remark()
+      .use(html)
+      .processSync(content)
+      .toString();
 
     return {
       id,
       title: data.title,
       order: data.order,
+      contentHtml, // Include the processed HTML content
     };
   });
 
+  // Sort sections by order
   sections.sort((a, b) => a.order - b.order);
 
   return sections;
@@ -137,8 +147,7 @@ export async function getSectionData(id: string): Promise<SectionData> {
 }
 
 async function processMarkdown(markdownContent: string): Promise<string> {
-  const { remark } = await import('remark');
-  const html = (await import('remark-html')).default;
+  //const html = (await import('remark-html')).default;
   const processedContent = await remark()
     .use(html)
     .process(markdownContent);
