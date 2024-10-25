@@ -1,0 +1,50 @@
+---
+section: "section-1"
+title: "Nous trions à chaque seconde de chaque jour"
+author: "Holly_Elmore"
+timing: 5
+date: "26 août 2016"
+order: 10
+---
+
+# Nous trions à chaque seconde de chaque jour
+
+Publication croisée de cet [article de blog](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/).)
+
+ 
+
+*Attention au spoiler : écoutez d’abord l'épisode si vous ne voulez pas en entendre un résumé approximatif.*
+
+ 
+
+J'ai bien aimé l'épisode « [Playing God](https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god) (Se prendre pour Dieu) » de RadioLab.
+
+Le sujet est le [triage médical](https://fr.wikipedia.org/wiki/Triage_m%C3%A9dical), la pratique qui consiste à prioriser différents patients en médecine d'urgence. Par extension, trier signifie répartir des ressources limitées. L'épisode traite le triage comme un phénomène rare – il avance d’ailleurs que les protocoles de triage médical n'ont commencé à être pris au sérieux aux États-Unis qu'après l'ouragan Katrina. Or, le triage n'est pas du tout un phénomène rare. Nous trions à chaque fois que nous prenons une décision.
+
+Les histoires racontées dans « Playing God » sont passionnantes, en particulier celle d'un hôpital de la Nouvelle-Orléans plongé dans l'enfer en quelques jours après avoir été privé d'électricité lors de l'ouragan Katrina. [Sheri Fink](http://www.sherifink.net/), du New York Times, évoque les événements qu'elle a rapportés dans son livre [Five Days at Memorial](https://www.amazon.com/Five-Days-Memorial-Storm-Ravaged-Hospital/dp/0307718972/ref=sr_1_1?ie=UTF8&qid=1471783956&sr=8-1&keywords=five+days+at+memorial) (Cinq jours au Memorial). Les détails sont choquants. Après avoir évacué l'unité de soins intensifs, le personnel de l'hôpital est contraint de classer les patients restants en vue de leur évacuation ; le déplacement des patients est un travail éreintant en l'absence d'ascenseurs, et les hélicoptères et les bateaux ne viennent les récupérer que sporadiquement. Les eaux usées refluent dans l'hôpital et la chaleur extrême provoque des crises d'épilepsie chez certains patients et animaux de compagnie.
+
+Pendant ce temps, aux informations, le personnel entend des rapports exagérés sur les pillages et l'anarchie qui règnent dans la ville. Estimant qu'ils n'ont pas le choix, certains membres du personnel commencent à penser que l'euthanasie des patients les plus malades (et les plus difficiles à transporter en vue d'une évacuation) pourrait être la solution la plus clémente. Certains patients *auraient* été euthanasiés, mais aucune personne impliquée n'a jamais été inculpée. Le plus tragique est que ces éventuelles euthanasies ont eu lieu le jour même du retour des véhicules de secours.
+
+Le point clé de cette histoire est que le fait de céder à la logique du triage a mis le personnel de l'hôpital sur une pente glissante qui les a amenés à « se prendre pour Dieu ». L'épisode se poursuit par une discussion sur les moyens de formaliser le triage afin que les gens n'aient pas à se fier à leur propre jugement dans un moment aussi délicat. (Le triage utilitaire est abordé, et on peut presque entendre les intervenants se boucher le nez de dégoût.) Très souvent, on se préoccupe principalement de la conscience du soignant sans que personne ne reconnaisse l’égoïsme de cette attitude. Le triage est dépeint de manière très défavorable tout au long de l’épisode, comme si les personnes contraintes de faire ce choix devaient être fautives d'une manière ou d'une autre de s'être retrouvées dans cette situation.
+
+Mais c'est la dernière histoire qui m'a donné envie d'écrire ceci. Sheri Fink, la journaliste invitée, décrit une femme qu'elle a rencontrée dans un hôpital américain d'aide aux sinistrés en Haïti. Nathalie était une charmante femme d'âge moyen dont la vie a été épargnée parce qu'elle s'était rendue à l'hôpital pour des difficultés respiratoires. Lorsque le tremblement de terre a frappé, toute sa famille se trouvait dans leur maison, qui s'est effondrée et les a tous tués. Nathalie faisait bonne figure, était heureuse d'être en vie, et elle rayonnait de gratitude pour les soins qu'elle avait reçus.
+
+Mais il y avait un problème. Nathalie avait besoin d'oxygène, et l'hôpital (en fait, le pays) n'en avait pas assez pour tout le monde. Comme elle souffrait d'une insuffisance cardiaque, les infirmières qui s’occupaient du triage avaient décidé qu'elle ne devait plus recevoir d'oxygène et qu'elle devait retourner dans un hôpital local géré par des Haïtiens, très probablement pour y mourir. Fink mentionne avec regret que l'infirmière qui a pris la décision n'avait jamais rencontré Nathalie, comme si cela faisait une quelconque différence.
+
+Fink monte dans l'ambulance avec elle jusqu'au nouvel hôpital, où elle tousse et crache sans recevoir d'oxygène pour l'aider. Cela brise le cœur de Fink. Mais lorsque Nathalie arrive à l'hôpital haïtien, un médecin astucieux fait ce qu'il peut pour drainer le liquide de ses poumons et parvient à la sortir de la crise sans oxygène supplémentaire.
+
+Pour Fink, cette histoire renforce l'idée qu'il ne faut jamais choisir – qu'accepter de choisir, c'est déjà aller trop loin. Fink a été tellement émue par Nathalie qu'elle l'a aidée à obtenir un visa humanitaire pour les États-Unis. Il s'est avéré que Nathalie avait besoin d'une transplantation cardiaque, et elle est morte avant de pouvoir en bénéficier. Mais, selon Fink, elle a fait le bonheur de tous ceux qu'elle a rencontrés à l'hôpital ; elle a même organisé une collecte pour les autres patients en Haïti. Alors qui étaient les médecins pour dire qu'elle ne méritait pas qu’on fasse tout pour la sauver ?
+
+C'est évidemment la mauvaise question à poser. Bien sûr que Nathalie méritait qu’on fasse tout pour la sauver. Personne ne devrait avoir à souffrir d'une insuffisance cardiaque en premier lieu. Mais méritait-elle l'oxygène plus que toutes les autres personnes qui en avaient besoin dans cet hôpital ? Le temps de vie de Nathalie comptait-il plus que le temps supplémentaire que les médecins pouvaient accorder à d'autres patients en utilisant l'oxygène avec précaution ? Absolument pas.
+
+Les bénéficiaires du triage n'ont été évoqués nulle part dans l'épisode. Il n'y a eu aucune tentative pour déterminer combien de personnes supplémentaires ont été sauvées parce que le personnel de l'hôpital a pris des mesures difficiles et décisives. Il n'est pas question de savoir qui aurait dû mourir dans cette situation si ce n'est Nathalie – quelqu'un qui avait encore de nombreuses années de vie en bonne santé devant lui ? Deux personnes qui auraient pu être sauvées avec la même quantité d'oxygène ? Il n'y a que le déni que quelqu'un ait dû mourir. Il n'y a pas de gratitude pour les vies supplémentaires sauvées – seulement une [aversion pour la perte](https://fr.wikipedia.org/wiki/Aversion_pour_la_perte). Il n'y a aucune reconnaissance du fait que Fink n'aurait très probablement pas voulu que d'autres patients meurent non plus, si elle les avait rencontrés, et encore moins de reconnaissance du fait que les gens sont importants, qu’on les ait rencontrés personnellement ou non.
+
+Faire de meilleurs choix en triant de manière réfléchie n'est pas plus « se prendre pour Dieu » que d'abdiquer allègrement la responsabilité des effets de nos actions. Dans les deux cas, il s'agit de laisser vivre certaines personnes et d’en laisser mourir d’autres. La seule différence, c’est qu’en triant on peut utiliser son cerveau pour améliorer le résultat. La souffrance de la personne qui ne reçoit pas la ressource rare n'est pas moindre parce qu’on n'en a pas été personnellement témoin. Lorsque Fink a vu la souffrance de Nathalie, cela aurait seulement dû l'informer de la gravité de la situation – à la fois pour Nathalie et pour ceux qui ont reçu de l'oxygène.
+
+Je comprends que ce soit difficile, que l'on se soucie toujours instinctivement plus des gens que l'on voit que de ceux que l'on ne voit pas. Il n'y a pas de honte à ce que Fink éprouve des sentiments profonds pour Nathalie. C'est un élément clé de la compassion. Mais on devrait vraiment avoir honte de laisser souffrir et mourir plus de gens qu'il ne le faut parce qu'on ne peut pas faire abstraction de ses propres sentiments. C'est contre [ce type d'empathie étroite que Paul Bloom s'élève](https://www.amazon.com/Against-Empathy-Case-Rational-Compassion/dp/0062339338).
+
+Des [millions de personnes dans le monde meurent de causes tout à fait évitables](http://www.un.org/apps/news/story.asp?NewsID=54340#.V7_XV7V8bWQ). Pourquoi cela ferait-il une différence qu'ils ne soient pas devant nous ? Vous savez qu'ils existent. *Eux* savent qu’ils souffrent. La [pauvreté ](https://www.givedirectly.org/?gclid=CjwKEAjwrvq9BRD5gLyrufTqg0YSJACcuF81S-ZBjDu85JfqJnmhncsRVcaL4Gb_InpXs74bUuvuGhoC4m7w_wcB)est l'une des causes principales, tout comme [les maladies tropicales négligées](http://www.givewell.org/international/top-charities/amf) qui pourraient être soignées pour [quelques centimes par personne et par an](http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative). De l’argent qui ne vous manquerait même pas pourrait sauver des vies en ce moment même si [vous le consacriez à cela](https://www.givingwhatwecan.org/get-involved/join/) plutôt qu'à la décoration de votre maison ou à votre collection de figurines, par exemple. Chaque décision que nous prenons a une incidence sur la vie des innombrables autres personnes que nous pourrions aider.
+
+Nous sommes constamment en train de trier. J'espère ardemment qu'un jour nous pourrons sauver tout le monde. En attendant, il est irresponsable de prétendre que [nous ne prenons pas de décisions de vie ou de mort en répartissant nos ressources](https://www.effectivealtruism.org/). Prétendre qu'il n'y a pas de choix ne fait que nuire à nos décisions.
+
+Ce travail est placé sous une licence [Creative Commons Attribution 4.0 Licence Internationale](https://creativecommons.org/licenses/by/4.0/deed.fr).
